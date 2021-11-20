@@ -1,16 +1,14 @@
 # basic-express-server
 
-CodeFellows 401 JavaScript Lab 02
+CodeFellows 401 JavaScript Lab 02 & AWS: Cloud Servers
 
-This is a practice server deployment using [Heroku](https://www.heroku.com/) & [Amazon Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/).
+This is a practice server deployment using [Heroku](https://www.heroku.com/), [Amazon EC2](https://aws.amazon.com/pm/ec2/), [Amazon Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) and [AWS Code Pipeline](https://aws.amazon.com/codepipeline/). Deployed resources are automatically updated when their respective branches are updated in Github.
 
 [Heroku Development Server](https://muckt-basic-express-server-dev.herokuapp.com/)
 
 [Heroku Production Server](https://muckt-basic-express-server-pro.herokuapp.com/)
 
-[AWS Elastic Beanstalk](http://basicexpressapi-env.eba-mr3na3sj.us-east-2.elasticbeanstalk.com/)
-
-
+[AWS Production Server](http://basicexpressapi-env.eba-mr3na3sj.us-east-2.elasticbeanstalk.com/)
 ### Getting Started
 
 ```Bash
