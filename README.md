@@ -2,7 +2,7 @@
 
 CodeFellows 401 JavaScript Lab 02 & AWS: Cloud Servers
 
-This is a practice server deployment using [Heroku](https://www.heroku.com/), [Amazon EC2](https://aws.amazon.com/pm/ec2/), [Amazon Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) and [AWS Code Pipeline](https://aws.amazon.com/codepipeline/). Deployed resources are automatically updated when the branches their respective branches are updated in Github.
+This is a practice server deployment using [Heroku](https://www.heroku.com/), [Amazon EC2](https://aws.amazon.com/pm/ec2/), [Amazon Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) and [AWS Code Pipeline](https://aws.amazon.com/codepipeline/). Deployed resources are automatically updated when their respective branches are updated in Github.
 
 [Heroku Development Server](https://muckt-basic-express-server-dev.herokuapp.com/)
 
