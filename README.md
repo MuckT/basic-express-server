@@ -9,8 +9,6 @@ This is a practice server deployment using [Heroku](https://www.heroku.com/), [A
 [Heroku Production Server](https://muckt-basic-express-server-pro.herokuapp.com/)
 
 [AWS Production Server](http://basicexpressapi-env.eba-mr3na3sj.us-east-2.elasticbeanstalk.com/)
-
-
 ### Getting Started
 
 ```Bash
