@@ -8,9 +8,8 @@ This is a practice server deployment using [Heroku](https://www.heroku.com/) & [
 
 [Heroku Production Server](https://muckt-basic-express-server-pro.herokuapp.com/)
 
-[AWS Elastic Beanstalk GUI](http://helloworld-env.eba-wmaumpuy.us-east-2.elasticbeanstalk.com/)
+[AWS Elastic Beanstalk](http://basicexpressapi-env.eba-mr3na3sj.us-east-2.elasticbeanstalk.com/)
 
-[AWS Elastic Beanstalk CLI](http://helloworld-env.eba-wmaumpuy.us-east-2.elasticbeanstalk.com/)
 
 ### Getting Started
 
