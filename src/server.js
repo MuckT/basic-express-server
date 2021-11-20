@@ -18,6 +18,10 @@ const logger = require('./middleware/logger')
 const validator = require('./middleware/validator')
 
 // Routes
+app.get('/', (req, res) => {
+  res.status(200).send('Hello World!')
+})
+
 app.get('/bad', (req, res, next) => {
   next('you\'ve messed up')
 });
