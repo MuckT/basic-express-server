@@ -27,3 +27,17 @@ describe('Given /person', () => {
     })
   })
 })
+
+describe('Given /', () => {
+  describe('When GET', () => {
+    it('Then returns 200 status', async () => {
+      const response = await request.get('/')
+      expect(response.status).toStrictEqual(200)
+    })
+
+    it("Then returns 'Hello World!", async () => {
+      const response = await request.get('/')
+      expect(response.text).toStrictEqual('Hello World!')
+    })
+  })
+})
