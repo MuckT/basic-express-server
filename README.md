@@ -2,11 +2,14 @@
 
 CodeFellows 401 JavaScript Lab 02
 
-This is a practice server deployment using [Heroku](https://www.heroku.com/).
+This is a practice server deployment using [Heroku](https://www.heroku.com/) & [Amazon Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/).
 
-[Development Server](https://muckt-basic-express-server-dev.herokuapp.com/)
+[Heroku Development Server](https://muckt-basic-express-server-dev.herokuapp.com/)
 
-[Production Server](https://muckt-basic-express-server-pro.herokuapp.com/)
+[Heroku Production Server](https://muckt-basic-express-server-pro.herokuapp.com/)
+
+[AWS Elastic Beanstalk](http://basicexpressapi-env.eba-mr3na3sj.us-east-2.elasticbeanstalk.com/)
+
 
 ### Getting Started
 
